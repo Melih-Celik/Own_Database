@@ -1,2 +1,6 @@
 # Own_Database
-Create MYSQL Database and edit It using python.
+
+
+This is a Python program that aims to create a MYSQL database and allows you to edit,view or search it.
+
+Works on cli.
